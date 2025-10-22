@@ -1,6 +1,8 @@
 
-# Caddy Cloudflare
-> A fully integrated Caddy Docker image featuring Cloudflare DNS-01 ACME validation
+# Caddy Cloudflare OVH
+> A fully integrated Caddy Docker image featuring Cloudflare & OVH DNS-01 ACME validation
+
+A fork from https://github.com/CaddyBuilds/caddy-cloudflare
 
 Deploy a hassle-free Caddy server with built-in support for Cloudflare DNS-01 ACME challenges. Streamline your SSL certificate management and ensure your server stays secure without manual updates, making it an effortless and reliable solution.
 
