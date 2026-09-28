@@ -16,9 +16,7 @@ CUSTOM_TAG_PREFIX = ""
 REQUIRED_PLATFORMS = {
     "linux/amd64",
     "linux/arm64",
-    "linux/arm/v7",
     "linux/ppc64le",
-    "linux/s390x",
 }
 
 def log_error(message):
